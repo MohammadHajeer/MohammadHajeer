@@ -1,6 +1,14 @@
 # 💫 About Me:
-I’m a Software Engineer focused on modern web development using technologies like Next.js, React.js, and Tailwind CSS. I enjoy building clean, fast, and user-friendly web applications.<br><br>I’m currently improving my skills in:<br><br>Web security threats and vulnerabilities<br><br>Problem-solving and preparing for my Master’s in Data Science & Engineering<br><br>I’m also passionate about teaching beginners the fundamentals of web development.
 
+I’m a **Software Engineer** focused on modern **web development** using technologies like **Next.js**, **React.js**, and **Tailwind CSS**.  
+I enjoy building clean, fast, and user-friendly web applications.
+
+### 🔥 Currently Improving My Skills In:
+- **Web security threats and vulnerabilities**
+- **Problem-solving** and preparing for my **Master’s in Data Science & Engineering**
+
+### 🎓 What I Enjoy
+- Teaching beginners the fundamentals of **web development**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/smile.itzsunnah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-hajeer) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MuhammadHajeer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammadhajeer002@gmail.com) 
