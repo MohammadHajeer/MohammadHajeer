@@ -20,8 +20,6 @@ I enjoy building clean, fast, and user-friendly web applications.
 ![](https://nirzak-streak-stats.vercel.app/?user=MohammadHajeer&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadHajeer&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MohammadHajeer&icon=2&color=3)](https://visitcount.itsvg.in)
