@@ -1,10 +1,10 @@
-<div align="center">
+<div>
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hey there, I'm Muhammad Hajeer
+# Hey there, I'm Muhammad Hajeer <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
 
 ### `Software Engineer` | `Web Developer` | `Data Science Enthusiast` | `Security Explorer`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&random=false&width=600&lines=Building+Modern+Web+Experiences;Crafting+Clean+%26+Scalable+Code;Exploring+AI+%26+Data+Science;Securing+the+Digital+World+🔐" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&random=false&width=600&lines=Building+Modern+Web+Experiences;Crafting+Clean+%26+Scalable+Code;Exploring+AI+%26+Data+Science;Securing+the+Digital+World+🔐" alt="Typing SVG" /> -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-hajeer) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadhajeer002@gmail.com)
@@ -18,18 +18,14 @@ const muhammad = {
     role: "Software Engineer",
     location: "Sidon, Lebanon 🇱🇧",
     focus: ["Next.js", "React.js", "Tailwind CSS"],
-    learning: ["Web Security", "Penetration Testing", "Data Science & Engineering"],
+    learning: ["Web Security", "Penetration Testing"],
     passion: "Teaching & Mentoring aspiring developers",
     currentGoal: "Master's Degree in Data Science & Engineering",
     securityInterest: ["Ethical Hacking", "Vulnerability Assessment"],
 };
 ```
 
-<div align="center">
-
 ### 🎯 Current Focus
-
-</div>
 
 ```diff
 + 🔐 Mastering web security threats & vulnerabilities
@@ -42,7 +38,7 @@ const muhammad = {
 
 ## 💻 Tech Arsenal
 
-<div align="center">
+<div>
 
 ### 🎨 Frontend Development
 ![Next JS](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
