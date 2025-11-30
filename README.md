@@ -21,8 +21,7 @@ const muhammad = {
     learning: ["Web Security", "Penetration Testing", "Data Science & Engineering"],
     passion: "Teaching & Mentoring aspiring developers",
     currentGoal: "Master's Degree in Data Science & Engineering",
-    securityInterest: ["OWASP Top 10", "Ethical Hacking", "Vulnerability Assessment"],
-    funFact: "I debug with console.log() and I'm not ashamed 😄"
+    securityInterest: ["Ethical Hacking", "Vulnerability Assessment"],
 };
 ```
 
