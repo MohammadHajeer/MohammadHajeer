@@ -10,25 +10,25 @@
 ## 🚀 About Me
 
 ```typescript
-const muhammad = {
+const mohammad = {
     role: "Software Engineer",
     location: "Sidon, Lebanon 🇱🇧",
     focus: ["Next.js", "React.js", "Tailwind CSS"],
-    learning: ["Web Security", "Penetration Testing"],
+    experience: "Elevating expertise through professional internships",
+    learning: ["Advanced Web Architecture", "Scalable Systems"],
     passion: "Teaching & Mentoring aspiring developers",
     currentGoal: "Master's Degree in Data Science & Engineering",
-    securityInterest: ["Ethical Hacking", "Vulnerability Assessment"],
+    expertise: ["Modern Web Development", "Full-stack Optimization"],
 };
 ```
 
 ### 🎯 Current Focus
 
 ```diff
-+ 🔐 Mastering web security threats & vulnerabilities
-+ 🛡️ Exploring cybersecurity, penetration testing & ethical hacking
++ 📈 Elevating web development expertise through professional internships
++ 🏗️ Architecting production-ready, scalable applications
 + 📊 Preparing for Master's in Data Science & Engineering
-+ 🎓 Teaching web development fundamentals to beginners
-+ 🚀 Building production-ready, scalable applications
++ ✨ Mastering modern full-stack patterns and performance optimization
 ```
 
 ## 💻 Tech Arsenal
