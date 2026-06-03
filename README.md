@@ -79,11 +79,6 @@ const mohammad = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohammadHajeer&show_icons=true&theme=radical&title_color=00FFB3&icon_color=00FFB3&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=10" alt="GitHub Stats" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=MohammadHajeer&theme=radical&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3&sideLabels=00FFB3&hide_border=true&border_radius=10&background=0d1117" alt="GitHub Streak" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadHajeer&theme=radical&title_color=00FFB3&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=10&layout=compact&langs_count=10" alt="Top Languages" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadHajeer&custom_title=Contribution%20Graph&bg_color=0d1117&color=00FFB3&line=00FFB3&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
