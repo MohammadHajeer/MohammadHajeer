@@ -1,4 +1,4 @@
-# Hey there, I'm Muhammad Hajeer <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
+# Hey there, I'm Mohammad Hajeer <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
 
 ### `Software Engineer` | `Web Developer` | `Data Science Enthusiast` | `Security Explorer`
 
