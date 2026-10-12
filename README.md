@@ -19,7 +19,7 @@ I build secure, well-structured web applications: REST APIs, authentication, dat
 
 I'm a full-stack developer and Computer Science graduate (High Honors, GPA 3.93) working mainly with **React, Next.js, and TypeScript** on the frontend and **Node.js/Express** and **Python/FastAPI** on the backend. Most of my recent work sits on the server side: data models, business rules, role-based access, and secure data flows.
 
-I apply SOLID principles and clean architecture, work in Agile teams with pull requests and code review, and increasingly integrate AI features such as LLMs and RAG into the products I build. I also enjoy mentoring developers who are starting out, and I'm preparing for a Master's in **Data Science and Engineering**.
+I apply SOLID principles and clean architecture, work in Agile teams with pull requests and code review, and increasingly integrate AI features such as LLMs into the products I build. I also enjoy mentoring developers who are starting out, and I'm preparing for a Master's in **Data Science and Engineering**.
 
 ---
 
@@ -56,7 +56,7 @@ I apply SOLID principles and clean architecture, work in Agile teams with pull r
 | **Databases & services** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white) |
 | **DevOps & tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=000000) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) |
 | **Architecture** | REST API design · Clean Architecture · SOLID · RBAC · SSR / CSR / SSG · SEO |
-| **AI** | LLM integration · RAG · Prompt engineering · AI APIs |
+| **AI** | LLM integration · Prompt engineering · AI APIs |
 
 ---
 
